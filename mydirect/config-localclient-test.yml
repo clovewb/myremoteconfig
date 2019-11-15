@@ -1,1 +1,4 @@
-# myremoteconfig
+server:
+  port: 9092
+
+myname: jeffrey  teach in xa-java-1902 classs.
